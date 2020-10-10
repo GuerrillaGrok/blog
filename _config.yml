@@ -1,1 +1,7 @@
 theme: jekyll-theme-midnight
+header_pages:
+ - essays.md
+ - notes.md
+ - guides.md
+ - examples.md
+ - demos.md
