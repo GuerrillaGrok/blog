@@ -1,10 +1,4 @@
----
-layout: default
-title: 'Notes'
-permalink: 'notes'
----
-
-<h3><img src="{{ site.baseurl }}/assets/notes.png">Notes</h3>
+### Notes
 <ul class="notes-list">
   {% assign sorted_posts = site.posts | sort: 'title' %}
   {% for post in sorted_posts %}
