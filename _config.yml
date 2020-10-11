@@ -5,7 +5,7 @@ include:
  - _navigation
 theme: minima
 minima:
-  skin: solarized-dark
+  skin: dark
 header_pages:
  - _navigation/essays.md
  - _navigation/guides.md
