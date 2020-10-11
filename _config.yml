@@ -1,6 +1,8 @@
 title: GuerrillaGrok
 tagline: Papa. Soldier. Blue Team Benchwarmer.
+include: _assets
 theme: minima
+  skin: dark
 header_pages:
  - essays.md
  - notes.md
