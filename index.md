@@ -1,5 +1,3 @@
 ---
-layout: null
+layout: home
 ---
-
-{{ site.posts.first }}
