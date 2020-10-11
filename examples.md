@@ -4,7 +4,7 @@ title: 'Examples'
 permalink: 'examples'
 ---
 
-<h3><img src="{{ site.baseurl }}/assets/notes.png">Examples</h3>
+<h3><img src="{{ site.baseurl }}/_assets/notes.png"> Examples</h3>
 <ul class="notes-list">
   {% assign sorted_posts = site.posts | sort: 'title' %}
   {% for post in sorted_posts %}
