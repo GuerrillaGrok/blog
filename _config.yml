@@ -3,7 +3,6 @@ description: Papa. Soldier. Blue Team Benchwarmer.
 include: 
  - _assets
  - _navigation
-theme: minima
 minima:
   skin: dark
 header_pages:
