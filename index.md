@@ -2,20 +2,20 @@
 layout: default
 ---
 
-### Essays
+<h3><img src="{{ site.baseurl }}/_assets/notes.png"> Essays </h3>
 * [Blog Posts About Cyber Security](/essays)
 
-### Notes
+<h3><img src="{{ site.baseurl }}/_assets/notes.png"> Notes</h3>
 * [Notes and Cheat-Sheets Designed to Be Printed](/notes)
 
-### Guides
+<h3><img src="{{ site.baseurl }}/_assets/notes.png"> Guides</h3>
 * [Field Guides for Deploying Cyber Security Tools](/guides)
 
-### Examples
+<h3><img src="{{ site.baseurl }}/_assets/notes.png"> Examples</h3>
 * [Example Syntax for Tools, Plugins, and Computer Programming Concepts](/examples)
 
-### Demos
+<h3><img src="{{ site.baseurl }}/_assets/notes.png"> Demos</h3>
 * [Various Demonstrations in GIF Format](/demos)
 
-### About
+<h3><img src="{{ site.baseurl }}/_assets/notes.png"> About</h3>
 * [Victor Fernandez III](/about)
