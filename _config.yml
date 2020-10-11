@@ -1,7 +1,5 @@
-title: GuerrillaGrok
-author: 'Victor Fernandez III'
-tagline: 'Blue Team Benchwarmer.'
-description: 'Blue Team Benchwarmer.'
+title: 'Victor Fernandez III'
+author: GuerrillaGrok
 include: 
   - _assets
   - _navigation
