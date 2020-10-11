@@ -15,7 +15,7 @@ layout: default
 * [Example Syntax for Tools, Plugins, and Computer Programming Concepts](/examples)
 
 ### Demos
-* [GIFs Demonstrating Various Tools and Computer Programming Concepts](/demos)
+* [Various Demonstrations in GIF Format](/demos)
 
 ### About
 * [Victor Fernandez III](/about)
