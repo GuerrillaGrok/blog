@@ -1,14 +1,19 @@
 title: GuerrillaGrok
-description: Papa. Soldier. Blue Team Benchwarmer.
+tagline: 'Blue Team Benchwarmer.'
+description: 'Papa. Soldier. Blue Team Benchwarmer.'
 include: 
- - _assets
- - _navigation
+  - _assets
+  - _navigation
 header_pages:
- - _navigation/essays.md
- - _navigation/guides.md
- - _navigation/notes.md
- - _navigation/examples.md
- - _navigation/demos.md
+  - _navigation/essays.md
+  - _navigation/guides.md
+  - _navigation/notes.md
+  - _navigation/examples.md
+  - _navigation/demos.md
 theme: minima
 minima:
   skin: dark
+  social_links: 
+    linkedin: vicfernandeziii
+    github: cyberphor
+    twitter: cyberphor
