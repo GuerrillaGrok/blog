@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 ---
 
 {{ site.posts.first }}
