@@ -7,8 +7,8 @@ theme: minima
 minima:
   skin: solarized-dark
 header_pages:
- - essays.md
+ - _navigation/essays.md
  - _navigation/notes.md
- - guides.md
- - examples.md
- - demos.md
+ - _navigation/guides.md
+ - _navigation/examples.md
+ - _navigation/demos.md
