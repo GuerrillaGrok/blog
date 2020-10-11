@@ -1,6 +1,8 @@
 title: GuerrillaGrok
 description: Papa. Soldier. Blue Team Benchwarmer.
-include: _assets
+include: 
+ - _assets
+ - _navigation
 theme: minima
 minima:
   skin: solarized-dark
