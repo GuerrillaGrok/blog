@@ -1,8 +1,7 @@
 title: GuerrillaGrok
-author:
-  name: Victor Fernandez III
+author: 'Victor Fernandez III'
 tagline: 'Blue Team Benchwarmer.'
-description: 'Papa. Soldier. Blue Team Benchwarmer.'
+description: 'Blue Team Benchwarmer.'
 include: 
   - _assets
   - _navigation
