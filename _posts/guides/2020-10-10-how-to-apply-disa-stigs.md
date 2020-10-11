@@ -1,7 +1,7 @@
 ---
 title: 'How to Apply DISA STIGs'
 category: guides
-permalink: 'guides/disa-stigs'
+permalink: 'disa-stigs'
 ---
 
 ### Table of Contents
