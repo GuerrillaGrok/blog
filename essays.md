@@ -1,6 +1,6 @@
 ---
 layout: default
-title: essays
+title: Essays
 permalink: 'essays'
 ---
 
