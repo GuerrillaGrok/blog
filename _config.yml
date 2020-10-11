@@ -9,7 +9,8 @@ header_pages:
  - _navigation/notes.md
  - _navigation/examples.md
  - _navigation/demos.md
-plugins: jekyll-paginate
+plugins: 
+ - jekyll-paginate
 paginate: 1
 theme: minima
 minima:
