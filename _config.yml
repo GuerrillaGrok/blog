@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: minima
 header_pages:
  - essays.md
  - notes.md
